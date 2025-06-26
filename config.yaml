@@ -45,7 +45,7 @@ contact: 'team@carpentries.org'
 #
 # episodes:
 # - Progressive workflows.md
-# - Test and discuss workflows.md
+# - Test and discuss.md
 # - Further resources.md
 #
 # learners:
@@ -61,7 +61,7 @@ contact: 'team@carpentries.org'
 # Order of episodes in your lesson
 episodes:
 - Progressive workflows.Rmd
-- Test and discuss workflows.Rmd
+- Test and discuss.Rmd
 - Further resources.Rmd
 
 # Information for Learners
