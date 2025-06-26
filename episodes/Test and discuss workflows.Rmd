@@ -6,6 +6,7 @@ exercises: 2
 
 This section is dedicated to working on researchers’ workflows to prepare for deployment onto HPC systems. Group reflection is also included to identify issues and explore potential collaboration by sharing knowledge, including solutions and code. 
 
+
 ::: challenge
 ## Challenge: Test your workflows
 
