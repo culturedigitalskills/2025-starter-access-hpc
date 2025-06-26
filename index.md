@@ -3,7 +3,7 @@ site: sandpaper::sandpaper_site
 ---
 
 This resource aims to prepare Arts and Humanities (A&H) researchers for onboarding to High Performance Computing (HPC). 
-The content of the resource includes scaffolded activities to enable involvement, active learning and engagement with A&H research workflows and the onboarding process to HPC. 
+The content of the resource includes scaffolded activities to enable involvement, active learning and engagement with research workflows and the onboarding process to HPC. 
 
 By the end of this resource you are expected to be able to: 
 
