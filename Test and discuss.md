@@ -1,5 +1,5 @@
 ---
-title: 'Test and discuss workflows'
+title: 'Test and discuss'
 teaching: 60
 exercises: 2
 ---
