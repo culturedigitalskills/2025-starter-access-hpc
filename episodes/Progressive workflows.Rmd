@@ -6,6 +6,9 @@ exercises: 2
 
 The sections below aim to support researchers to experiment with accessing an HPC system with peer support. Researchers will test a simple workflow that is useful in the context of their work. For this, they will develop a simple workflow based on existing code, libraries and datasets.
 
+![Workflow with blurred city abstract lights background by Tierney under Education License from Adobe Stock](../episodes/fig/workflow.jpeg){alt="workflow"}
+
+
 ## Simple workflow
 
 This is a group exercise to develop and test a simple workflow within the context of your research and deploy in HPC.
