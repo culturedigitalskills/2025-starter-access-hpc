@@ -11,13 +11,13 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'Lesson Title'
+title: 'Preparation for Onboarding to High Performance Computing'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2025-06-25'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries'
+keywords: 'HPC, high performance computing, onboarding'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -44,8 +44,9 @@ contact: 'team@carpentries.org'
 # Example -------------
 #
 # episodes:
-# - introduction.md
-# - first-steps.md
+# - Progressive workflows.md
+# - Test and discuss workflows.md
+# - Further resources.md
 #
 # learners:
 # - setup.md
@@ -58,17 +59,19 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
-- introduction.Rmd
+episodes:
+- Progressive workflows.Rmd
+- Test and discuss workflows.Rmd
+- Further resources.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
