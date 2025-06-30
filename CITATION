@@ -1,18 +1,16 @@
-To reference information about this module, please cite:
+To reference information about this resource, please cite:
 
-Karina Rodriguez Echavarria and Myrsini Samaroudi. "Copyright of 3D Data".
-2024. https://doi.org/10.5281/zenodo.12698601
+Karina Rodriguez Echavarria and Myrsini Samaroudi. "Onboarding to High Performance Computing".
+2025.
 
-@online{rodriguez-copyright-multi-24,
+@online{rodriguez-samaroudi-onboarding-25,
   author      = {Karina {Rodriguez Echavarria} and Myrsini {Samaroudi}},
-  title       = {Copyright of 3D Data},
-  year        = {2024},
-url = {https://doi.org/10.5281/zenodo.12698601},
-doi = {10.5281/zenodo.12698601},
+  title       = {Onboarding to High Performance Computing},
+  year        = {2025},
 }
 
-Title: Copyright of 3D Data
-Author: Karina Rodriguez Echavarria and and Myrsini Samaroudi
-Resource organisation: [Digital Skills in Visual and Material Culture](https://www.culuredigitalskills.org)
-Keywords: copyright, licensing, creative commons, UK law
+Title: Onboarding to High Performance Computing
+Author: Karina Rodriguez Echavarria and Myrsini Samaroudi
+Resource organisation: [Digital Skills in Arts and Humanities (DISKAH)](https://www.culuredigitalskills.org)
+Keywords: HPC, high performance computing, onboarding
 License: CC-BY 4.0
