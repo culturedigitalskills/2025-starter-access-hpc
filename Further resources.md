@@ -8,7 +8,22 @@ editor_options:
 
 **Python:**
 
-Introduction to Python for Arts and Humanities research
+[Python, Coding for Reproducible Research Training Programme, University
+of
+Exeter](https://coding-for-reproducible-research.github.io/CfRR_Courses/course_homepages/python.html)
+
+[Programming with
+Python](https://swcarpentry.github.io/python-novice-inflammation/)
+
+[Introduction to Python For Humanists, Hot Source! project, University
+of
+Exeter](https://colab.research.google.com/drive/1xWNivlzLh9Kuxc2ytLxJbFK3oa45_Hde#scrollTo=1XtD1W0YrJev)
+
+[Python for the
+Humanities](https://felipeadet.github.io/PythonforHumanities/)
+
+[Python for
+Humanists](https://caltechlibrary.github.io/python-humanities-lesson/)
 
 **Python exercises:**
 
