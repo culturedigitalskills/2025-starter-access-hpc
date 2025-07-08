@@ -45,6 +45,8 @@ Github](https://durhamarc-training.github.io/2025-07-03-DISKAH/)
 [Digital Humanities & Research Software Engineering Summer School
 2025](https://github.com/kingsdigitallab/dh-rse-summer-school-2025)
 
+[High performance computing for Digital Humanities - KCL E-research](https://kcl-eresearch.github.io/High-Performance-Computing-for-Digital-Humanities)
+
 [DiRAC: Foundation
 HPC-Skills](https://dirac.ac.uk/LD-courses/hpc-skills-training/)
 
