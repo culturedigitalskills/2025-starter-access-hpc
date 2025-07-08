@@ -6,7 +6,7 @@
 "links.md" "8184cf4149eafbf03ce8da8ff0778c14" "site/built/links.md" "2025-07-08"
 "episodes/Progressive workflows.Rmd" "ee8b1b806417a68582aba3d884c49aab" "site/built/Progressive workflows.md" "2025-07-08"
 "episodes/Test and discuss.Rmd" "a6bb7fc2b3c274c3ba4aab14ab42ab05" "site/built/Test and discuss.md" "2025-07-08"
-"episodes/Further resources.Rmd" "8cee102c9b839395a3d99e4d0ead2c10" "site/built/Further resources.md" "2025-07-08"
+"episodes/Further resources.Rmd" "47477fe7af895d506d360d2043c13ce0" "site/built/Further resources.md" "2025-07-08"
 "instructors/instructor-notes.md" "5cf113fd22defb29d17b64597f3c9bc0" "site/built/instructor-notes.md" "2025-07-08"
 "learners/reference.md" "527a12e217602daae51c5fd9ef8958df" "site/built/reference.md" "2025-07-08"
 "learners/setup.md" "0ad595e3700c48223ea6b189a6eb2fda" "site/built/setup.md" "2025-07-08"
