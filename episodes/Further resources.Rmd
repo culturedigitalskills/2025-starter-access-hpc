@@ -28,8 +28,11 @@ Humanists](https://caltechlibrary.github.io/python-humanities-lesson/)
 **Python exercises:**
 
 <https://www.practicepython.org/exercises/>
+
 <https://genepy.org/exercises/>
+
 <https://www.w3resource.com/bash-script-exercises/index.php>
+
 <https://github.com/krother/bash_tutorial>
 
 **Git and Github:**
